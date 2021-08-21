@@ -15,8 +15,8 @@ redirect_from:
 Education
 ======
 - **Ph.D. Art, Design and Media, NTU(Singpore), 2021-2025(expected)**
-- **M.Arch Architecture, Tongji University(Shanghai, China), 2018-2021
-- **B.Arch Architecture, Xi'an Jiaotong University(Xi'an, China), 2013-2018
+- **M.Arch Architecture, Tongji University(Shanghai, China), 2018-2021**
+- **B.Arch Architecture, Xi'an Jiaotong University(Xi'an, China), 2013-2018**
 
 Design Awards
 ======
