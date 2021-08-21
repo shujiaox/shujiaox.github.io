@@ -1,13 +1,13 @@
 # main links links
 main:
+  - title: "Home"
+    url: /home/
+
+  - title: "Projects"
+    url: /projects/    
+
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /publications/    
     
   - title: "Portfolio"
     url: /portfolio/
@@ -18,5 +18,3 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
