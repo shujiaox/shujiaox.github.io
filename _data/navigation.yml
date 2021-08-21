@@ -1,12 +1,6 @@
 # main links links
 main:
-  - title: "Home"
-    url: /about/
-
-  - title: "Projects"
-    url: /projects/    
-
-  - title: "Publications"
+    - title: "Publications"
     url: /publications/    
     
   - title: "Portfolio"
