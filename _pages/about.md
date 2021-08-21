@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the [School of Art, Design and Media](https://www.ntu.edu.sg/adm) at [Nanyang Technological University](https://www.ntu.edu.sg/), advised by Prof. [Kristy H.A. Kang](https://dr.ntu.edu.sg/cris/rp/rp01142).
+I am a first-year Ph.D. student in the [School of Art, Design and Media](https://www.ntu.edu.sg/adm) at [Nanyang Technological University](https://www.ntu.edu.sg/), advised by Prof. [Kristy H.A. Kang](https://dr.ntu.edu.sg/cris/rp/rp01142). My research interests lie in the intersection of art and technology, particularly in interactive media art, media architecture and creative robotics, as well as their applications in digital humanities, cultural heritage preservation and urban regeneration. 
+
+I am a fan of east asian poetry, art, history and urban photography. My dream is to interpret poems and distant lands with codes.
 
 Education
 ======
