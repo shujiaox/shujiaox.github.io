@@ -21,7 +21,7 @@ Education
   - Thesis: Research on Application of Gardening Landscape Techniques in Historical District Renovation —— Take Changzhou Qingguo District as Example
   - Advisor: Prof. Zhenyu Li
 - **B.Arch Architecture, Xi'an Jiaotong University(Xi'an, China), 2013-2018**
-  - Thesis: Urban Catalyst —— 
+  - Thesis: Urban Catalyst —— Planning and Design of Section of Railway Vocational School of Taibai South Road in Xi'an
   - Advisor: Prof. Dingqing Zhang
 
 Design Awards
