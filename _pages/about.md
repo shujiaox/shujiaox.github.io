@@ -26,11 +26,10 @@ Education
 
 Design Awards
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2020 **Excellence Award**, ‘Seed Power’ Public Installation Design, ￥5000
+2019 **3rd Prize**, Graduation Design of Architecture in Shaanxi Universities
+2017 **1st Prize**, International Design Workshop Asian Low Carbon Cities, 50000 JPY
+2016 **2nd Prize**, Seoul International Student Design Competition on Sustainable Built Environment, ￥13600
+2016 **Excellence Award**, Photo Contest of Xi’an Jiaotong University
 
 
