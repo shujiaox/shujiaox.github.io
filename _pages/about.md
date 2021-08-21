@@ -26,10 +26,10 @@ Education
 
 Design Awards
 ======
-2020 **Excellence Award**, ‘Seed Power’ Public Installation Design, ￥5000
-2019 **3rd Prize**, Graduation Design of Architecture in Shaanxi Universities
-2017 **1st Prize**, International Design Workshop Asian Low Carbon Cities, 50000 JPY
-2016 **2nd Prize**, Seoul International Student Design Competition on Sustainable Built Environment, ￥13600
-2016 **Excellence Award**, Photo Contest of Xi’an Jiaotong University
+- 2020 **Excellence Award**, ‘Seed Power’ Public Installation Design, ￥5000
+- 2019 **3rd Prize**, Graduation Design of Architecture in Shaanxi Universities
+- 2017 **1st Prize**, International Design Workshop Asian Low Carbon Cities, 50000 JPY
+- 2016 **2nd Prize**, Seoul International Student Design Competition on Sustainable Built Environment, ￥13600
+- 2016 **Excellence Award**, Photo Contest of Xi’an Jiaotong University
 
 
