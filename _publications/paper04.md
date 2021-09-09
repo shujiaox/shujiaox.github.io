@@ -3,7 +3,7 @@ title: "Research on ecological planning strategy of resettlement areas in Southe
 collection: publications
 permalink: /publication/paper04
 excerpt: 'The relocation and resettlement project in Southern Shaanxi has a large scale and involves many aspects. This project brings new problems to the ecological environment of the region, such as lacking ecological planning and copying the pattern of urban residential district in the planning and construction of immigrant resettlement areas. Based on perspective of ecology, the planning strategy and design method are explored in the resettlement area. And site selection, ecological environment construction and the layout pattern of the resettlement area are studied from the macro regional ecological environment to the micro community residential environment. It is proposed to promote entire ecological construction of the resettlement areas, improve the pattern of spatial layout and strengthen the protection and use of the natural environment around resettlement areas, so as to provide a reasonable planning method for the formation of new communities and construct ecological pattern of the resettlement areas suitable for the regional environment.'
-date: 2017-10-01
+date: 2016-10-01
 venue: 'The 5th International Conference on Energy and Environmental Protection (ICEEP 2016)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Zhang, D., Xie, S., & Guo, W. (2016, November). Research on ecological planning strategy of resettlement areas in Southern Shaanxi. In 2016 5th International Conference on Energy and Environmental Protection (ICEEP 2016). Atlantis Press.'
