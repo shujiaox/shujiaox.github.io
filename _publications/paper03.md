@@ -1,3 +1,4 @@
+---
 title: "Study on the Planning of Resettlement Areas in Southern Shaanxi Based on Landscape Ecological Evaluation"
 collection: publications
 permalink: /publication/paper03
