@@ -2,7 +2,6 @@
 title: "Research on Protective Reuse of Industrial Heritage along the Canal of Sunan"
 collection: publications
 permalink: /publication/paper01
-excerpt: 'This paper discussed the problems the historic block along the Sunan Canal faced and come up with suggestions for protective reuse of this area.'
 date: 2018-10-01
 venue: 'The 9th Seminar on Industrial Heritage'
 ---
