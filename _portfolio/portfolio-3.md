@@ -2,7 +2,7 @@
 title: "Interactive Landscape in Community"
 **Location:** Shanghai, China
 **Collaboration:** Hong Chen, Yunchuan Gao, Qingyu Zhang, Cheng Chen and Hua Yang
-excerpt: "This project was about the future visions of our community landscapes with the development of technologies. It aimed at embedding interactive technologies in our built environment to improve the public space quality and make community lives more colorful..<br/><img src='/files/ProjectImage/DSC00390.jpg'>"
+excerpt: "This project was about the future visions of our community landscapes with the development of technologies. It aimed at embedding interactive technologies in our built environment to improve the public space quality and make community lives more colorful.<br/><img src='/files/ProjectImage/DSC00390.jpg'>"
 
 collection: portfolio
 ---
